@@ -8,4 +8,4 @@ function countBs(palabra) {
     console.log(bs.length)
 }
 
-countBs("Buenas noches caBallero, BoBobbbBBBBBBBaaaaasjkdasjkhdbas")
+countBs("Buenas noches caBallero, Bob va cenar esta noche. Bonitas Batatas con Boga")
